@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/CMakeFiles/bootloader
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/CMakeFiles/bootloader.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/CMakeFiles/bootloader-complete.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/nico/Repositorios/DAIoT_2022-esp32_ssl_mutual_auth/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
